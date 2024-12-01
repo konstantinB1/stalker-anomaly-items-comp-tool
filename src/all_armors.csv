@@ -1,0 +1,162 @@
+Name,Faction,Type,Weight,Belt Slots,Carry Bonus,Ballistic,Burn,Electric,Chemical,Radiation,Psi,Rupture,Impact,Explosive,Has Helmet?,Has Backpack?,No Sprint?
+CS-3b body armour,Clear Sky,Heavy,16.00 kg,1,+16 kg,25%,14%,32%,9%,18%,8%,20%,48%,47%,FALSE,FALSE,FALSE
+CS-4b armoured suit,Clear Sky,Heavy,19.00 kg,1,+16 kg,30%,37%,40%,24%,22%,0%,20%,70%,80%,FALSE,FALSE,FALSE
+CS-5 exosuit,Clear Sky,Heavy,18.00 kg,2,+18 kg,59%,7%,28%,2%,64%,24%,30%,50%,75%,TRUE,FALSE,FALSE
+Defender of Freedom,Freedom,Heavy,16.00 kg,0,+16 kg,17%,9%,31%,14%,18%,16%,20%,30%,47%,FALSE,FALSE,FALSE
+Exosuit,Loner,Heavy,18.00 kg,1,+18 kg,59%,7%,18%,13%,55%,24%,30%,55%,75%,TRUE,FALSE,FALSE
+IBAz universal protection,Duty,Heavy,18.00 kg,0,+17 kg,17%,6%,28%,48%,13%,12%,20%,35%,47%,FALSE,FALSE,FALSE
+Interceptor body armour,Loner,Heavy,14.00 kg,0,+13 kg,17%,8%,25%,8%,19%,8%,20%,20%,47%,FALSE,FALSE,FALSE
+Liberated Skat-9 armoured suit,Freedom,Heavy,17.00 kg,0,+15 kg,30%,31%,35%,48%,10%,0%,20%,40%,85%,FALSE,FALSE,FALSE
+Looted exosuit,Bandit,Heavy,20.00 kg,1,+20 kg,59%,35%,15%,9%,54%,28%,30%,55%,75%,TRUE,FALSE,FALSE
+Looted Skat-9 armoured suit,Bandit,Heavy,14.00 kg,0,+10 kg,30%,40%,37%,20%,6%,0%,20%,62%,83%,FALSE,FALSE,FALSE
+Mercenary exosuit,Mercenary,Heavy,16.00 kg,1,+16 kg,59%,5%,48%,20%,57%,24%,30%,53%,72%,TRUE,FALSE,FALSE
+Mercenary grassland exosuit,Mercenary,Heavy,17.40 kg,2,+18 kg,67%,51%,15%,18%,42%,24%,33%,65%,77%,TRUE,FALSE,FALSE
+Mercenary IBAz suit,Mercenary,Heavy,17.00 kg,0,+16 kg,17%,13%,38%,16%,16%,20%,20%,10%,47%,FALSE,FALSE,FALSE
+Mercenary Skat-9 armoured suit,Mercenary,Heavy,18.00 kg,0,+14 kg,30%,31%,53%,36%,9%,0%,20%,45%,80%,FALSE,FALSE,FALSE
+Mercenary STS-N body armour,Mercenary,Heavy,14.00 kg,0,+13 kg,17%,11%,12%,8%,17%,0%,16%,34%,36%,FALSE,FALSE,FALSE
+Mercenary urban exosuit,Mercenary,Heavy,18.80 kg,1,+19 kg,67%,50%,13%,20%,49%,24%,34%,69%,84%,TRUE,FALSE,FALSE
+Mercenary woodland exosuit,Mercenary,Heavy,18.20 kg,3,+19 kg,18%,53%,15%,17%,66%,24%,30%,65%,75%,TRUE,FALSE,FALSE
+Military stalker exosuit,Military,Heavy,16.00 kg,1,+16 kg,59%,9%,2%,37%,53%,32%,30%,60%,74%,TRUE,FALSE,FALSE
+Military stalker IBAz suit,Military,Heavy,15.00 kg,0,+16 kg,17%,11%,32%,8%,17%,12%,20%,41%,47%,FALSE,FALSE,FALSE
+Monolith exosuit,Monolith,Heavy,17.00 kg,2,+17 kg,59%,7%,5%,25%,59%,48%,30%,61%,76%,TRUE,FALSE,FALSE
+Monolith IBAz assault suit,Monolith,Heavy,16.00 kg,1,+16 kg,17%,5%,33%,12%,14%,32%,20%,29%,47%,FALSE,FALSE,FALSE
+Monolith Skat-9 armoured suit,Monolith,Heavy,18.00 kg,0,+15 kg,30%,27%,23%,24%,17%,0%,20%,40%,90%,FALSE,FALSE,FALSE
+PS5-B2 veteran battlesuit,Duty,Heavy,8.50 kg,1,+11 kg,17%,13%,7%,4%,8%,0%,39%,38%,55%,FALSE,FALSE,FALSE
+PSZ-10d Duty battlesuit,Duty,Heavy,19.00 kg,1,+19 kg,59%,19%,33%,17%,45%,24%,28%,65%,70%,TRUE,FALSE,FALSE
+PSZ-10d Duty battlesuit (version 2),Duty,Heavy,19.00 kg,1,+19 kg,67%,18%,33%,16%,45%,24%,28%,65%,70%,TRUE,FALSE,FALSE
+PSZ-10d venator battlesuit,Duty,Heavy,21.00 kg,0,+19 kg,67%,27%,8%,12%,33%,48%,37%,76%,70%,TRUE,FALSE,FALSE
+PSZ-10G urban battlesuit,Duty,Heavy,23.00 kg,1,+20 kg,67%,9%,10%,8%,58%,16%,40%,80%,70%,TRUE,FALSE,FALSE
+PSZ-10I forest battlesuit,Duty,Heavy,16.00 kg,3,+19 kg,67%,53%,38%,19%,64%,36%,29%,58%,65%,TRUE,FALSE,FALSE
+PSZ-7p shell armour,Duty,Heavy,11.30 kg,1,+15 kg,34%,44%,5%,14%,15%,0%,17%,50%,42%,FALSE,FALSE,FALSE
+PSZ-9D body armour,Duty,Heavy,20.00 kg,0,+16 kg,34%,44%,28%,28%,13%,0%,21%,65%,70%,FALSE,FALSE,FALSE
+PSZ-9kl command armour,Duty,Heavy,16.40 kg,2,+13 kg,34%,33%,6%,20%,15%,0%,23%,49%,80%,FALSE,FALSE,FALSE
+Skat-9 armoured suit,Military,Heavy,18.00 kg,0,+15 kg,30%,35%,38%,28%,11%,0%,20%,55%,70%,FALSE,FALSE,FALSE
+UNISG exosuit,UNISG,Heavy,17.00 kg,1,+17 kg,59%,13%,23%,20%,54%,40%,30%,55%,75%,TRUE,FALSE,FALSE
+UNISG IBAz suit,UNISG,Heavy,16.00 kg,1,+17 kg,17%,14%,30%,10%,15%,8%,20%,45%,47%,FALSE,FALSE,FALSE
+Warrior of Freedom,Freedom,Heavy,17.00 kg,1,+17 kg,59%,8%,23%,40%,54%,28%,30%,55%,75%,TRUE,FALSE,FALSE
+Woodland exosuit,None,Heavy,17.80 kg,1,+18 kg,67%,7%,33%,25%,68%,24%,25%,55%,65%,FALSE,TRUE,TRUE
+CS-5 exoskeleton,Clear Sky,Heavy (Exoskel),35.00 kg,2,+100 kg,63%,7%,28%,2%,64%,24%,30%,50%,85%,TRUE,TRUE,TRUE
+Exoskeleton,Loner,Heavy (Exoskel),48.00 kg,1,+113 kg,63%,7%,18%,13%,55%,24%,30%,55%,85%,FALSE,TRUE,TRUE
+Heisted exoskeleton,Bandit,Heavy (Exoskel),41.00 kg,1,+107 kg,61%,35%,15%,9%,54%,28%,30%,55%,85%,TRUE,TRUE,TRUE
+Hero of Freedom,Freedom,Heavy (Exoskel),14.00 kg,2,+17 kg,67%,11%,41%,20%,60%,16%,25%,55%,65%,TRUE,TRUE,TRUE
+Mercenary exoskeleton,Mercenary,Heavy (Exoskel),40.00 kg,2,+106 kg,63%,5%,48%,20%,57%,24%,30%,53%,82%,TRUE,TRUE,TRUE
+Military stalker exoskeleton,Military,Heavy (Exoskel),44.00 kg,1,+109 kg,71%,9%,2%,37%,53%,32%,30%,60%,84%,FALSE,TRUE,TRUE
+Monolith exoskeleton,Monolith,Heavy (Exoskel),35.00 kg,2,+100 kg,63%,7%,5%,25%,59%,48%,30%,61%,86%,FALSE,TRUE,TRUE
+Paragon of Freedom,Freedom,Heavy (Exoskel),48.00 kg,1,+113 kg,61%,8%,23%,40%,54%,28%,30%,55%,85%,TRUE,TRUE,TRUE
+PSZ-10d exoskeleton,Duty,Heavy (Exoskel),36.00 kg,1,+111 kg,65%,18%,33%,16%,45%,24%,28%,65%,80%,TRUE,TRUE,TRUE
+Renegade exoskeleton,Renegade,Heavy (Exoskel),45.00 kg,2,+110 kg,63%,7%,28%,20%,54%,24%,30%,50%,85%,TRUE,TRUE,TRUE
+Scientific exoskeleton,Ecologist,Heavy (Exoskel),37.00 kg,2,+103 kg,63%,7%,28%,20%,54%,24%,30%,50%,85%,TRUE,FALSE,TRUE
+UNISG exoskelton,UNISG,Heavy (Exoskel),44.00 kg,1,+109 kg,63%,13%,23%,20%,54%,40%,30%,60%,84%,TRUE,TRUE,TRUE
+Vyraj power armour,Sin,Heavy (Exoskel),44.00 kg,1,+109 kg,63%,7%,22%,21%,54%,24%,30%,60%,84%,FALSE,TRUE,TRUE
+Champion of Freedom,Freedom,Heavy (Nosorog),55.00 kg,2,+103 kg,67%,8%,23%,40%,75%,37%,37%,65%,90%,TRUE,TRUE,TRUE
+Mercenary Nosorog,Mercenary,Heavy (Nosorog),49.00 kg,2,+98 kg,67%,5%,48%,20%,75%,37%,41%,63%,95%,TRUE,TRUE,TRUE
+Military stalker Nosorog,Military,Heavy (Nosorog),56.00 kg,2,+102 kg,67%,9%,2%,37%,75%,37%,35%,90%,95%,FALSE,TRUE,TRUE
+Monolith Nosorog,Monolith,Heavy (Nosorog),51.00 kg,2,+101 kg,67%,7%,5%,25%,75%,37%,38%,80%,90%,TRUE,TRUE,TRUE
+PSZ-10d Nosorog,Duty,Heavy (Nosorog),53.00 kg,2,+102 kg,67%,18%,33%,16%,75%,37%,36%,75%,95%,TRUE,TRUE,TRUE
+UNISG Nosorog,UNISG,Heavy (Nosorog),51.00 kg,2,+107 kg,67%,13%,23%,20%,75%,37%,37%,70%,90%,TRUE,TRUE,TRUE
+"""Sunrise"" proto-exoskeleton",Loner,Heavy (P. Exo),28.00 kg,1,+100 kg,9%,13%,15%,12%,13%,0%,14%,25%,25%,FALSE,TRUE,TRUE
+CS-2b proto-exoskeleton,Clear Sky,Heavy (P. Exo),30.00 kg,3,+105 kg,9%,27%,23%,28%,13%,0%,10%,25%,22%,FALSE,TRUE,TRUE
+Ecologist guard proto-exoskeleton,Ecologist,Heavy (P. Exo),33.00 kg,3,+115 kg,9%,66%,53%,52%,37%,0%,15%,60%,25%,FALSE,TRUE,TRUE
+Freedom proto-exoskeleton,Freedom,Heavy (P. Exo),24.00 kg,2,+96 kg,9%,8%,5%,48%,10%,0%,15%,20%,21%,FALSE,TRUE,TRUE
+PS5-M proto-exoskeleton,Duty,Heavy (P. Exo),26.00 kg,2,+101 kg,13%,8%,13%,9%,7%,0%,15%,30%,40%,FALSE,TRUE,TRUE
+PSZ-9D proto-exoskeleton,Duty,Heavy (P. Exo),32.00 kg,2,+107 kg,34%,44%,28%,28%,13%,0%,21%,65%,70%,FALSE,TRUE,TRUE
+Skat-9 proto-exoskeleton,Military,Heavy (P. Exo),31.00 kg,1,+106 kg,30%,35%,38%,28%,11%,0%,20%,55%,70%,FALSE,TRUE,TRUE
+UNISG tactical proto-exoskeleton,UNISG,Heavy (P. Exo),23.00 kg,2,+98 kg,9%,3%,15%,8%,6%,0%,15%,25%,31%,FALSE,TRUE,TRUE
+X-18 proto-exoskeleton,Monolith,Heavy (P. Exo),25.00 kg,3,+97 kg,9%,4%,5%,16%,30%,0%,9%,10%,19%,FALSE,TRUE,TRUE
+Black leather jacket,Bandit,Light,3.86 kg,0,+3 kg,1%,10%,8%,12%,0%,0%,10%,1%,10%,FALSE,FALSE,FALSE
+Clear sky leather jacket,Clear Sky,Light,3.86 kg,0,+3 kg,1%,10%,8%,12%,0%,0%,10%,1%,10%,FALSE,FALSE,FALSE
+Duty leather jacket,Duty,Light,3.86 kg,0,+3 kg,1%,10%,8%,12%,0%,0%,10%,1%,10%,FALSE,FALSE,FALSE
+Leather jacket,None,Light,3.86 kg,0,+3 kg,1%,10%,8%,12%,0%,0%,10%,1%,10%,FALSE,FALSE,FALSE
+Freedom leather jacket,Freedom,Light,3.86 kg,0,+3 kg,1%,10%,10%,12%,0%,0%,10%,1%,10%,FALSE,FALSE,FALSE
+Firearm enthusiast's jacket,None,Light,3.98 kg,0,+8 kg,1%,11%,9%,14%,0%,0%,10%,1%,14%,FALSE,FALSE,FALSE
+Redline leather jacket,None,Light,4.00 kg,0,+15 kg,1%,11%,9%,14%,0%,0%,10%,1%,10%,FALSE,FALSE,FALSE
+Overcoat,None,Light,5.22 kg,0,+5 kg,1%,13%,13%,16%,4%,14%,10%,1%,20%,FALSE,FALSE,FALSE
+Mercenary LC-F suit,Mercenary,Light,6.00 kg,1,+15 kg,9%,11%,6%,5%,8%,0%,10%,15%,20%,FALSE,FALSE,FALSE
+CS-2a body armour,Clear Sky,Light,8.00 kg,1,+12 kg,11%,9%,23%,16%,9%,0%,10%,10%,10%,FALSE,FALSE,FALSE
+Tourist's jacket,Loner,Light,4.00 kg,1,+28 kg,1%,12%,9%,15%,0%,0%,11%,1%,20%,FALSE,FALSE,FALSE
+Armoured leather jacket,Bandit,Light,6.92 kg,0,+4 kg,6%,11%,11%,16%,0%,0%,13%,1%,20%,FALSE,FALSE,FALSE
+"""Predator"" stalker suit",Loner,Light,4.00 kg,1,+10 kg,11%,13%,15%,12%,13%,0%,14%,25%,25%,FALSE,FALSE,FALSE
+CS-1 body armour,Clear Sky,Light,5.48 kg,1,+5 kg,7%,13%,24%,15%,5%,0%,15%,5%,24%,FALSE,FALSE,FALSE
+Military service outfit,Military,Light,8.00 kg,1,+11 kg,7%,4%,7%,8%,0%,0%,16%,1%,25%,FALSE,FALSE,FALSE
+Mercenary LC-S suit,Mercenary,Light,4.00 kg,0,+10 kg,9%,4%,25%,1%,12%,0%,7%,10%,15%,FALSE,FALSE,FALSE
+Fenced LC suit,Bandit,Light,8.00 kg,1,+13 kg,13%,2%,7%,5%,4%,0%,7%,10%,15%,FALSE,FALSE,FALSE
+"""Autumn"" stalker suit",Loner,Medium,5.80 kg,0,+6 kg,11%,13%,15%,52%,13%,0%,14%,25%,25%,FALSE,FALSE,FALSE
+"""Bear"" stalker suit",Loner,Medium,7.00 kg,0,+6 kg,11%,40%,3%,12%,13%,0%,14%,25%,25%,FALSE,FALSE,FALSE
+"""Drought"" stalker suit",Loner,Medium,8.50 kg,2,+7 kg,11%,13%,15%,12%,13%,0%,14%,25%,25%,FALSE,FALSE,FALSE
+"""Graphite"" stalker suit",Loner,Medium,6.50 kg,0,+5 kg,11%,5%,48%,5%,13%,32%,15%,25%,25%,FALSE,FALSE,FALSE
+"""Nomad"" stalker suit",Loner,Medium,5.20 kg,3,+15 kg,11%,32%,18%,8%,37%,16%,23%,24%,50%,FALSE,FALSE,FALSE
+"""Salamander"" stalker suit",Loner,Medium,6.80 kg,1,+6 kg,11%,6%,15%,12%,37%,0%,14%,25%,25%,FALSE,FALSE,FALSE
+"""Sunset"" tactical suit",Bandit,Medium,16.00 kg,1,+16 kg,9%,13%,30%,12%,10%,0%,10%,10%,14%,FALSE,FALSE,FALSE
+"""Sunrise"" stalker suit",Loner,Medium,6.20 kg,0,+6 kg,9%,13%,15%,12%,13%,0%,14%,25%,25%,FALSE,FALSE,FALSE
+"""Tigerstripe"" stalker suit",Loner,Medium,9.00 kg,0,+6 kg,11%,13%,15%,12%,13%,0%,19%,25%,35%,FALSE,FALSE,FALSE
+"""Twilight"" tactical suit",Mercenary,Medium,12.00 kg,2,+12 kg,9%,18%,23%,16%,13%,0%,15%,8%,24%,FALSE,FALSE,FALSE
+"""Voyager"" stalker suit",Loner,Medium,6.60 kg,5,+65 kg,7%,30%,19%,48%,46%,13%,28%,12%,20%,FALSE,FALSE,FALSE
+"""Wastelander"" stalker suit",Loner,Medium,9.20 kg,4,+12 kg,17%,35%,33%,20%,55%,44%,14%,30%,30%,TRUE,FALSE,FALSE
+Berill-5M armoured suit,Military,Medium,12.00 kg,1,+16 kg,17%,7%,9%,8%,10%,0%,35%,20%,50%,FALSE,FALSE,FALSE
+CS-2b body armour,Clear Sky,Medium,7.00 kg,1,+8 kg,9%,27%,23%,28%,13%,0%,10%,25%,22%,FALSE,FALSE,FALSE
+CS-3a body armour,Clear Sky,Medium,12.00 kg,1,+14 kg,17%,13%,5%,5%,15%,0%,14%,30%,30%,FALSE,FALSE,FALSE
+Deserter's B-5M amoured suit,Bandit,Medium,13.00 kg,1,+18 kg,17%,5%,8%,12%,10%,0%,30%,15%,40%,FALSE,FALSE,FALSE
+Fenced PS5-M universal protection,Bandit,Medium,11.00 kg,1,+10 kg,13%,8%,20%,12%,14%,0%,14%,10%,31%,FALSE,FALSE,FALSE
+Ghillie suit,None,Medium,14.12 kg,1,+14 kg,7%,4%,31%,23%,37%,3%,21%,5%,20%,FALSE,FALSE,FALSE
+Guardian of Freedom,Freedom,Medium,16.00 kg,2,+20 kg,17%,12%,14%,16%,10%,0%,30%,38%,45%,FALSE,FALSE,FALSE
+Heavy brown overcoat,None,Medium,6.00 kg,0,+6 kg,13%,14%,17%,18%,14%,16%,19%,30%,50%,FALSE,FALSE,FALSE
+Heavy Duty overcoat,Duty,Medium,15.00 kg,1,+15 kg,13%,12%,12%,15%,15%,0%,18%,20%,50%,FALSE,FALSE,FALSE
+Heavy Freedom overcoat,Freedom,Medium,15.00 kg,1,+15 kg,13%,12%,12%,14%,14%,0%,18%,25%,50%,FALSE,FALSE,FALSE
+Heavy green overcoat,None,Medium,5.00 kg,0,+6 kg,13%,13%,12%,17%,14%,14%,18%,28%,50%,FALSE,FALSE,FALSE
+Irij flak armour,Sin,Medium,10.00 kg,0,+13 kg,13%,12%,23%,10%,15%,0%,14%,20%,40%,FALSE,FALSE,FALSE
+ISRIT guard jumpsuit,Ecologist,Medium,5.20 kg,2,+7 kg,9%,27%,28%,24%,15%,0%,15%,30%,24%,FALSE,FALSE,FALSE
+Mercenary B-5M armoured suit,Mercenary,Medium,13.00 kg,1,+19 kg,17%,7%,8%,12%,10%,0%,35%,33%,50%,FALSE,FALSE,FALSE
+Mercenary LC suit,Mercenary,Medium,9.00 kg,0,+13 kg,13%,3%,15%,9%,6%,0%,14%,20%,35%,FALSE,FALSE,FALSE
+Mercenary LCz suit,Mercenary,Medium,11.00 kg,0,+15 kg,11%,12%,12%,11%,12%,0%,19%,25%,40%,FALSE,FALSE,FALSE
+Mercenary LTS-J body suit,Mercenary,Medium,7.00 kg,2,+19 kg,11%,3%,16%,12%,14%,0%,10%,16%,35%,FALSE,FALSE,FALSE
+Mercenary MTS-C body suit,Mercenary,Medium,12.00 kg,3,+27 kg,11%,3%,16%,12%,14%,0%,14%,23%,35%,FALSE,FALSE,FALSE
+Mercenary STS-W body armor,Mercenary,Medium,6.30 kg,2,+10 kg,11%,32%,15%,32%,28%,0%,11%,16%,26%,FALSE,FALSE,FALSE
+Monolith overcoat,Monolith,Medium,6.00 kg,2,+6 kg,13%,15%,14%,18%,14%,17%,18%,35%,50%,FALSE,FALSE,FALSE
+Monolith X-18 suit,Monolith,Medium,8.20 kg,2,+10 kg,9%,4%,5%,16%,20%,0%,9%,10%,19%,FALSE,FALSE,FALSE
+PS5-B battle armour,Duty,Medium,12.00 kg,1,+17 kg,17%,6%,11%,12%,10%,0%,35%,23%,50%,FALSE,FALSE,FALSE
+PS5-M hunter suit,Duty,Medium,11.00 kg,0,+8 kg,9%,22%,25%,16%,5%,0%,23%,40%,40%,FALSE,FALSE,FALSE
+PS5-M universal protection,Duty,Medium,11.00 kg,0,+9 kg,13%,8%,13%,9%,7%,0%,15%,30%,40%,FALSE,FALSE,FALSE
+PS5-R scout vest,Duty,Medium,5.30 kg,0,+6 kg,9%,18%,23%,12%,12%,0%,10%,10%,20%,FALSE,FALSE,FALSE
+PS6-V warrior suit,Duty,Medium,7.75 kg,1,+10 kg,17%,31%,20%,16%,28%,0%,16%,30%,36%,FALSE,FALSE,FALSE
+Renegade LC suit,Renegade,Medium,10.00 kg,0,+11 kg,13%,2%,10%,9%,5%,0%,19%,30%,35%,FALSE,FALSE,FALSE
+Sentinel of Freedom,Freedom,Medium,11.90 kg,0,+10 kg,13%,11%,12%,16%,11%,0%,12%,20%,30%,FALSE,FALSE,FALSE
+SEVA bodysuit,Loner,Medium,13.40 kg,2,+18 kg,25%,13%,43%,44%,59%,48%,17%,20%,32%,FALSE,FALSE,FALSE
+Sin heavy overcoat,Sin,Medium,6.00 kg,1,+6 kg,13%,15%,14%,18%,14%,16%,18%,22%,50%,FALSE,FALSE,FALSE
+UNISG Lc suit,UNISG,Medium,9.00 kg,1,+12 kg,13%,3%,23%,9%,13%,0%,10%,20%,20%,FALSE,FALSE,FALSE
+UNISG LC-C suit,UNISG,Medium,7.00 kg,2,+19 kg,13%,13%,20%,16%,14%,0%,10%,16%,10%,FALSE,FALSE,FALSE
+UNISG LC-UC suit,UNISG,Medium,13.00 kg,1,+12 kg,13%,3%,15%,5%,4%,0%,14%,30%,40%,FALSE,FALSE,FALSE
+UNISG Mk 1 tactical body armour,UNISG,Medium,10.00 kg,1,+10 kg,9%,3%,15%,8%,6%,0%,15%,25%,31%,FALSE,FALSE,FALSE
+UNISG Mk 2 tactical body armour,UNISG,Medium,11.00 kg,2,+11 kg,13%,27%,15%,44%,13%,0%,10%,10%,41%,FALSE,FALSE,FALSE
+Volos flak armor,Sin,Medium,10.00 kg,0,+9 kg,13%,30%,28%,12%,10%,0%,14%,20%,36%,FALSE,FALSE,FALSE
+Vyriy flak armour,Sin,Medium,13.00 kg,1,+19 kg,13%,22%,33%,10%,16%,0%,14%,20%,40%,FALSE,FALSE,FALSE
+Wind of Freedom,Freedom,Medium,10.00 kg,1,+10 kg,9%,8%,5%,48%,10%,0%,15%,20%,21%,FALSE,FALSE,FALSE
+Watchman of Freedom,Freedom,Medium (CCS),12.00 kg,1,+19 kg,25%,13%,45%,48%,54%,46%,16%,25%,31%,TRUE,FALSE,FALSE
+UNISG SEVA suit,UNISG,Medium (CCS),11.80 kg,2,+19 kg,25%,13%,45%,48%,64%,50%,16%,20%,31%,TRUE,FALSE,FALSE
+SSP-99M suit,Ecologist,Medium (CCS),16.33 kg,3,+16 kg,19%,66%,65%,88%,75%,54%,12%,20%,30%,TRUE,FALSE,FALSE
+SSP-99M Sapphire,Ecologist,Medium (CCS),16.53 kg,3,+16 kg,19%,58%,75%,54%,71%,88%,12%,20%,30%,TRUE,FALSE,FALSE
+SSP-99M Ruby,Ecologist,Medium (CCS),18.15 kg,3,+18 kg,19%,87%,50%,54%,64%,54%,19%,29%,30%,TRUE,FALSE,FALSE
+SSP-99 Topaz,Ecologist,Medium (CCS),15.20 kg,3,+15 kg,14%,49%,60%,75%,91%,54%,8%,25%,5%,TRUE,FALSE,FALSE
+SSP-99 Ecologist,Ecologist,Medium (CCS),15.40 kg,3,+15 kg,14%,75%,68%,54%,64%,54%,8%,10%,5%,TRUE,FALSE,FALSE
+SSP-99 Diamond,Ecologist,Medium (CCS),15.50 kg,3,+15 kg,15%,48%,88%,54%,64%,75%,8%,18%,5%,TRUE,FALSE,FALSE
+Renegade SEVA suit,Renegade,Medium (CCS),9.10 kg,2,+20 kg,11%,27%,18%,52%,57%,40%,14%,29%,29%,TRUE,FALSE,FALSE
+PS5-9Md universal scientific suit,Duty,Medium (CCS),14.00 kg,1,+20 kg,25%,13%,45%,40%,59%,42%,17%,30%,32%,TRUE,FALSE,FALSE
+PS5-9Md scientific guard suit,Duty,Medium (CCS),9.40 kg,2,+20 kg,11%,35%,14%,52%,54%,48%,16%,33%,31%,TRUE,FALSE,FALSE
+PS5-9Md pathfinder,Duty,Medium (CCS),9.20 kg,3,+20 kg,11%,44%,17%,56%,73%,61%,18%,27%,25%,TRUE,FALSE,FALSE
+Patchwork closed cycle apparatus,Bandit,Medium (CCS),9.10 kg,2,+23 kg,11%,44%,18%,52%,57%,40%,7%,20%,20%,TRUE,FALSE,FALSE
+Monolith scientific suit,Monolith,Medium (CCS),13.30 kg,2,+18 kg,25%,13%,45%,55%,66%,42%,17%,20%,30%,TRUE,FALSE,FALSE
+Monolith patchwork science suit,Monolith,Medium (CCS),9.10 kg,3,+22 kg,11%,44%,18%,65%,57%,40%,7%,20%,20%,TRUE,FALSE,FALSE
+Mercenary SEVA suit,Mercenary,Medium (CCS),14.00 kg,2,+21 kg,25%,12%,50%,50%,60%,36%,13%,25%,22%,TRUE,FALSE,FALSE
+Mercenary SEVA body armour,Mercenary,Medium (CCS),15.00 kg,2,+23 kg,17%,27%,12%,48%,42%,40%,16%,24%,34%,TRUE,FALSE,FALSE
+Mercenary pathfinder,Mercenary,Medium (CCS),11.70 kg,2,+20 kg,17%,44%,55%,54%,64%,52%,18%,26%,38%,TRUE,FALSE,FALSE
+Mercenary ACE scientific suit,Mercenary,Medium (CCS),9.90 kg,3,+23 kg,17%,58%,65%,75%,60%,58%,18%,32%,38%,TRUE,FALSE,FALSE
+Looted SEVA suit,Bandit,Medium (CCS),15.10 kg,1,+19 kg,25%,12%,55%,52%,59%,49%,17%,29%,33%,TRUE,FALSE,FALSE
+Hybrid armoured suit,None,Medium (CCS),23.40 kg,3,+33 kg,17%,4%,25%,20%,55%,0%,18%,38%,25%,TRUE,FALSE,FALSE
+CS-4a SEVA suit,Clear Sky,Medium (CCS),14.30 kg,2,+19 kg,25%,8%,40%,36%,71%,46%,10%,20%,21%,TRUE,FALSE,FALSE
+CS-4a Pathfinder,Clear Sky,Medium (CCS),13.10 kg,3,+20 kg,25%,10%,50%,45%,84%,60%,12%,36%,25%,TRUE,FALSE,FALSE
+CS-3 NBC body armour,Clear Sky,Medium (NBC),16.00 kg,3,+33 kg,9%,27%,23%,28%,52%,0%,10%,25%,22%,TRUE,FALSE,FALSE
+Looted NBC suit,Bandit,Medium (NBC),14.50 kg,1,+31 kg,9%,13%,30%,12%,52%,0%,10%,10%,14%,TRUE,FALSE,FALSE
+NBC suit,Loner,Medium (NBC),15.20 kg,2,+32 kg,9%,13%,15%,12%,52%,0%,14%,25%,25%,TRUE,FALSE,FALSE
+Keeper of Freedom,Freedom,Medium (NBC),10.00 kg,1,+28 kg,9%,8%,5%,48%,52%,0%,15%,20%,21%,TRUE,FALSE,FALSE
+Mercenary NBC suit,Mercenary,Medium (NBC),14.00 kg,1,+32 kg,9%,3%,15%,9%,52%,0%,15%,32%,42%,TRUE,FALSE,FALSE
+PS5-Md NBC suit,Duty,Medium (NBC),12.00 kg,2,+30 kg,9%,8%,13%,9%,52%,0%,15%,30%,40%,TRUE,FALSE,FALSE
+Chernobyl NBC suit,Monolith,Medium (NBC),8.20 kg,3,+28 kg,9%,4%,5%,16%,52%,0%,9%,10%,19%,TRUE,FALSE,FALSE

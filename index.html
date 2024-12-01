@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Stalker Anomaly compare tool</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
+            rel="stylesheet"
+        />
+        <style>
+            html,
+            body {
+                margin: 0;
+                padding: 0;
+                font-family: "Montserrat", sans-serif;
+                font-optical-sizing: auto;
+            }
+
+            html {
+                background-color: #283047;
+            }
+
+            .block {
+                display: block;
+            }
+
+            .flex {
+                display: flex;
+            }
+
+            .wrap {
+                flex-wrap: wrap;
+            }
+
+            .justify-content-center {
+                justify-content: center;
+            }
+
+            .align-items-center {
+                align-items: center;
+            }
+
+            .align-space-between {
+                justify-content: space-between;
+            }
+
+            .margin-auto {
+                margin: auto;
+            }
+
+            select {
+                padding: 10px 32px;
+                font-size: 16px;
+                border-radius: 5px;
+                border: 1px solid #ccc;
+                width: 100%;
+            }
+
+            p {
+                margin: 0;
+                padding: 0;
+            }
+
+            .item-spec {
+                width: 50%;
+                gap: 16px;
+                row-gap: 16px;
+                column-gap: 40px;
+                margin-bottom: 32px;
+
+                > p {
+                    font-size: 14px;
+                    color: #b7b7b7;
+                }
+
+                > p:last-child {
+                    font-size: 18px;
+                    color: #fff;
+                }
+            }
+
+            .item-wrap {
+                border: 1px solid #ccc;
+                width: 30%;
+                padding: 16px;
+                border-radius: 10px;
+                max-height: 600px;
+                overflow: auto;
+            }
+
+            .select-height {
+                height: 100px;
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <section
+            class="flex margin-auto align-space-between"
+            style="width: 1400px; margin-top: 100px; gap: 20px"
+        >
+            <div class="item-wrap">
+                <div class="select-height">
+                    <select id="select-left-root"></select>
+                    <select id="select-left-sub"></select>
+                </div>
+                <div
+                    id="left-results"
+                    class="flex wrap"
+                    style="margin-top: 40px"
+                ></div>
+            </div>
+            <div class="item-wrap">
+                <div class="select-height"></div>
+                <div
+                    id="calc-results"
+                    class="flex wrap"
+                    style="margin-top: 40px"
+                ></div>
+            </div>
+            <div class="item-wrap">
+                <div class="select-height">
+                    <select id="select-right-root"></select>
+                    <select id="select-right-sub"></select>
+                </div>
+                <div
+                    id="right-results"
+                    class="flex wrap"
+                    style="margin-top: 40px"
+                ></div>
+            </div>
+        </section>
+        <script src="./dist/main.js" type="module"></script>
+    </body>
+</html>
